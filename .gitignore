@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+.DS_Store
+TOKEN: 3J0hbwyZgnTNCg9fVE9oXIymOtg_6Sikq4QMy15diXFskoaUd
